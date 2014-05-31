@@ -15,7 +15,9 @@
 	<platform>all</platform>
   	<language>it</language>
     <summary lang="it">Guarda i video da www.dmax.it</summary>
+	<summary lang="en">Watch videos from www.dmax.it</summary>
     <description lang="it">Visualizza i programmi e gli episodi completi dal sito www.dmax.it</description>
+	<description lang="en">Watch the programs and the complete episodes from the website www.dmax.it</description>
 	<forum>http://forum.xbmc.org/showthread.php?tid=196136</forum>
     <website>https://github.com/xbmc-goph/dmaxitalia</website>
     <email></email>
